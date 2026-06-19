@@ -786,6 +786,11 @@
     "weight": 1
   },
   {
+    "speciesId": "garganacl",
+    "chargedMoves": ["ROCK_BLAST","ROCK_TOMB"],
+    "weight": 1
+  },
+  {
     "speciesId": "gastrodon",
     "fastMove": "MUD_SLAP",
     "chargedMoves": ["BODY_SLAM","EARTH_POWER"],
@@ -1873,6 +1878,12 @@
   },
   {
     "speciesId": "skarmory_shadow",
+    "fastMove": "AIR_SLASH",
+    "chargedMoves": ["BRAVE_BIRD","SKY_ATTACK"],
+    "weight": 1
+  },
+  {
+    "speciesId": "skarmory_mega",
     "fastMove": "AIR_SLASH",
     "chargedMoves": ["BRAVE_BIRD","SKY_ATTACK"],
     "weight": 1
