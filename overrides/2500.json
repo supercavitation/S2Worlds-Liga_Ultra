@@ -1544,20 +1544,14 @@
   },
   {
     "speciesId": "poliwrath",
-    "fastMove": "COUNTER",
-    "chargedMoves": ["ICY_WIND","SCALD"],
-    "weight": 1
-  },
-  {
-    "speciesId": "poliwrath",
-    "fastMove": "COUNTER",
-    "chargedMoves": ["ICY_WIND","SCALD"],
+    "fastMove": "MUD_SHOT",
+    "chargedMoves": ["ICY_WIND","DYNAMIC_PUNCH"],
     "weight": 1
   },
   {
     "speciesId": "poliwrath_shadow",
-    "fastMove": "COUNTER",
-    "chargedMoves": ["ICY_WIND","SCALD"],
+    "fastMove": "MUD_SHOT",
+    "chargedMoves": ["ICY_WIND","DYNAMIC_PUNCH"],
     "weight": 1
   },
   {
